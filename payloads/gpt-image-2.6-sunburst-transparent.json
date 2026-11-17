@@ -1,0 +1,11 @@
+{
+  "model": "gpt-image-2.6-sunburst",
+  "input": {
+    "prompt": "A clean cutout of a small silver robot waving, studio product lighting",
+    "background": "transparent",
+    "output_format": "webp",
+    "size": "1:1",
+    "resolution": "1K",
+    "quality": "high"
+  }
+}

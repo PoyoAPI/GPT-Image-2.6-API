@@ -1,0 +1,8 @@
+{
+  "model": "gpt-image-2.6-fixed",
+  "input": {
+    "prompt": "A paper-cut illustration of a harbor city at sunrise, layered paper in warm orange and teal, tiny boats and lighthouses, soft shadows between the layers",
+    "version": "flare",
+    "size": "16:9"
+  }
+}

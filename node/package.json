@@ -1,0 +1,8 @@
+{
+  "name": "poyo-gpt-image-2-6-api-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  }
+}

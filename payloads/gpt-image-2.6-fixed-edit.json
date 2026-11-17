@@ -1,0 +1,10 @@
+{
+  "model": "gpt-image-2.6-fixed",
+  "input": {
+    "prompt": "Turn this photo into a soft watercolor children's-book illustration. Keep the red fox, its pose, and the brass compass on its cord.",
+    "version": "sunburst",
+    "image_urls": [
+      "https://storage.poyo.ai/models/seedance-2-5/examples/inputs/reference-fox-image.webp"
+    ]
+  }
+}

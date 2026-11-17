@@ -1,0 +1,9 @@
+{
+  "model": "gpt-image-2.6-flare",
+  "input": {
+    "prompt": "A premium product photo of a silver espresso machine in a bright studio",
+    "size": "16:9",
+    "resolution": "2K",
+    "quality": "medium"
+  }
+}
